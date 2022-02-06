@@ -9,7 +9,7 @@ The purpose of this project is to identify travel locations, analyze the local w
 ## Weather Analysis
 By generating a random set of longitude and lattitude pairs we're able to collect city names, then build a dataset that includes their coordinates, city name, country, temperature, hunidity, cloudiness, wind speed and current weather conditions.
 
-![weatherPy Database](weather_data/Weather_database.png)
+![weatherPy Database](weather_data/Weather_Database.png)
 
 ## Travel Search Options
 By providing the user the opportunity to enter the desired temperature range for a travel destination we're able to map out the travel locations that fit this criteria.
@@ -23,7 +23,7 @@ Once the user selects a destination region, we're able to provide travel directi
 
 as well as City and Hotel details
 
-![Vacation Itinerary info](Vacation_Itinerary/WeatherPy_travel_map_marker.png)
+![Vacation Itinerary info](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ## Summary
 By incorporating data available through API's we're able to analyze weather around the world and provide travel destination recommendations based on the desired climate requirements of the Traveler.
